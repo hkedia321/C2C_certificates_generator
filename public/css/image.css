@@ -1,0 +1,4 @@
+.image { 
+   position: relative; 
+   width: 100%; /* for IE 6 */
+}
